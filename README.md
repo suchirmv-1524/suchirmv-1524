@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @suchirmv-1524
-- 👀 I’m interested in JavaScript,Java, Cpp and C#
-- 🌱 I’m currently learning C# and JavaScript
-- 💞️ I’m looking to collaborate on projects concerning C# and JavaScript
+- 👋 Hi, I’m Suchir
+- 👀 I’m interested in Web dev and ML 
+- 🌱 I’m currently learning JavaScript and C# 
+- 💞️ I’m looking to collaborate on projects on Web dev and ML
 - 📫 How to reach me : smv1524@gmail.com
 
 <!---
