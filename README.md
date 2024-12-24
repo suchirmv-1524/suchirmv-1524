@@ -110,15 +110,10 @@ I'm a pre final year student at PES University. I'm a passionate coder particula
       </td>
     </tr>
   </table>
-  <br><br>
+  <br>
 
 <a href="https://github.com/suchirmv-1524">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=suchirmv-1524&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="GitHub Activity Graph">
-  </a>
-  <br><br>
-
-  <a href="https://github.com/suchirmv-1524">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suchirmv-1524&theme=nord" alt="GitHub Streak Stats">
   </a>
   <br><br>
 
