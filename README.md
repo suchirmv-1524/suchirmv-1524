@@ -1,11 +1,11 @@
 # Hi, I'm Suchir M Velpanur 👋
-I'm a pre final year student at PES University. I'm a passionate coder particularly interested in Data Structures and Algorithms, Machine Learning and Cloud Computing. As an inquisitive individual, I'm keen on learning about the ongoing technical advancements and the know-hows behind them.
+I'm a final year student at PES University. I'm a passionate coder particularly interested in Data Structures and Algorithms, Machine Learning and Cloud Computing. As an inquisitive individual, I'm keen on learning about the ongoing technical advancements and the know-hows behind them.
 
 ---
 
 # 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchir-m-velpanur-519413296/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/suchircodezzz/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suxzir.1.5.24) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suchir.1.5.24) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/users/eipsteinowner)<br/>
 
 ---
