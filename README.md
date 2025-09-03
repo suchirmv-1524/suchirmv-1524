@@ -142,9 +142,3 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 
 ---
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&animated=true&theme=dark)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=suchirmv-1524&icon=2&color=1)](https://visitcount.itsvg.in)
-
-
