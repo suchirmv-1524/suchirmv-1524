@@ -93,7 +93,7 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 
 ---
 
-## GitHub Stats 📃
+## 📃 GitHub Stats 
 
 <div align="center">
   <table>
