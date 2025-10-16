@@ -88,6 +88,7 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%230075C5.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Design
@@ -143,7 +144,7 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repositories
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=suchirmv-1524&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
@@ -151,3 +152,9 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 
 ---
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&animated=true&theme=dark)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suchirmv-1524&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sushma-ej" /> 
+</p>
