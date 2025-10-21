@@ -1,4 +1,4 @@
-# Hi, I'm Suchir M Velpanur 👋
+<h1 align="center">Hi, I'm Suchir M Velpanur 👋</h1>
 I'm a final year student at PES University. I'm a passionate coder particularly interested in Data Structures and Algorithms, Machine Learning and Cloud Computing. As an inquisitive individual, I'm keen on learning about the ongoing technical advancements and the know-hows behind them.
 
 ---
