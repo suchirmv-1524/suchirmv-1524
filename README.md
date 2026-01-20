@@ -133,24 +133,6 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 </div>
 
 ---
-
-
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suchirmv-1524&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suchirmv-1524&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</div>
-
----
 ## LeetCode Badges
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
 
