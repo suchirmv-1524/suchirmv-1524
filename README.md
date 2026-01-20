@@ -156,5 +156,5 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suchirmv-1524&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sushma-ej" /> 
+  <img src="https://komarev.com/ghpvc/?username=suchirmv-1524&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="suchirmv-1524" /> 
 </p>
