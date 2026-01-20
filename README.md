@@ -151,10 +151,10 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 </div>
 
 ---
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&animated=true&theme=dark)
+## LeetCode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suchirmv-1524&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="suchirmv-1524" /> 
 </p>
