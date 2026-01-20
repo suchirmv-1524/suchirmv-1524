@@ -134,7 +134,7 @@ I'm a final year student at PES University. I'm a passionate coder particularly 
 
 ---
 ## LeetCode Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=suchircodezzz&theme=dark&border=no-border" alt="LeetCode Badges"/>
 
 ---
 <p align="center">
